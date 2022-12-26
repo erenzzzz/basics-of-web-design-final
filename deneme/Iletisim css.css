@@ -1,0 +1,27 @@
+body {
+    background-image: url(images/WHITE.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    background-color: green;
+    color: white;
+    font-family: fantasy;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3{
+    color: black;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+a {
+    color: black;
+    font-family: fantasy;
+    font-size: 40px;
+}
